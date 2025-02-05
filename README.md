@@ -1,6 +1,3 @@
-![Screenshot 2025-02-05 152936](https://github.com/user-attachments/assets/ece2e1f8-b1a0-419d-8a7a-95241cbd515f)
-![Screenshot 2025-02-05 152908](https://github.com/user-attachments/assets/8164f0c5-30e1-4cd9-95df-c0703171db7b)
-
 # Blog Application
 
 
@@ -51,3 +48,6 @@ This project is a blog application built using Django. It features user authenti
 
 - Admin panel for managing users and posts
 
+
+![Screenshot 2025-02-05 152936](https://github.com/user-attachments/assets/ece2e1f8-b1a0-419d-8a7a-95241cbd515f)
+![Screenshot 2025-02-05 152908](https://github.com/user-attachments/assets/8164f0c5-30e1-4cd9-95df-c0703171db7b)

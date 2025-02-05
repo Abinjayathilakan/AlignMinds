@@ -11,29 +11,29 @@ This project is a blog application built using Django. It features user authenti
 
 ## Installation
 
-1.Clone the repository:
+1. Clone the repository:
 
 ```bash
   git clone https://github.com/Abinjayathilakan/AlignMinds.git
   cd your-repository
 ```
- 2.Create and Activate a Virtual Environment:
+ 2. Create and Activate a Virtual Environment:
 
 ```bash
   python -m venv venv
   source venv/bin/activate  # On Windows use: venv\Scripts\activate
 ```
-3.Install the required packages:
+3. Install the required packages:
 
 ```bash
   pip install -r requirements.txt
 ```
-4.Run Database Migrations:
+4. Run Database Migrations:
 
 ```bash
   python manage.py migrate
 ```
-5.Run the Development Server:
+5. Run the Development Server:
 
 ```bash
   python manage.py runserver
